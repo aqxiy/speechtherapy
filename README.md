@@ -12,7 +12,7 @@ Utter as below, repeating in order or mirrored.
 
 "Hesitate 'and' "balk"
 
-"Intuitively" 'vs' "insightfully"
+"Intuitively" 'v''s' "insightfully"
 
 "Intuitively" 'versus' "insightfully"
 

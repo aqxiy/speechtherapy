@@ -10,7 +10,7 @@ Utter as below, repeating in order or mirrored.
 
 "Hesitate" 'ampersand' "balk"
 
-"Hesitate 'and' "balk"
+"Hesitate" 'and' "balk"
 
 "Intuitively" 'v''s' "insightfully"
 
